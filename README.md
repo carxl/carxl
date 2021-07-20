@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @carxl
+- 👀 I’m interested in software developement and Machine Learning. I'm Tech Director in my own software factory where develop on Bizagi, NodeJs, Python and Javascript. 
+- 🌱 I’m currently learning Machine Learning and I am certifying in Bizagi BPM.
+- 💞️ I’m looking to collaborate on Machine Learning projects, Python projects or Javascript (NodeJS, React, VueJs) Projects.
+- 📫 How to reach me: karxll@gmail.com
+
+<!---
+carxl/carxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
