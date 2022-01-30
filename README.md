@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1><br/>👋 Hi, I’m Andrés</h1>
-  <h3 align="center">A software developer passionate for startups</h3>
+  <h3 align="center">A software developer passionate for building tech startups.</h3>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
 </div>
