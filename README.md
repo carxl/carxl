@@ -22,8 +22,6 @@
 - 📝 I regularly write articles on [https://monstercreativo.com/blog/](https://monstercreativo.com/blog/)
 
 - 💬 Ask me about **Python, Javascript, Php, React, VueJs,**
-
-- 📫 How to reach me **karxll@gmail.com**
 <br/><br/>
 
 
