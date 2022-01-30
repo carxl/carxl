@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **my machine learning skills**
 
-- I’m interested in software developement and Machine Learning.
+- 🔭 I’m interested in software developement and Machine Learning.
 
 - 📝 I regularly write articles on [https://monstercreativo.com/blog/](https://monstercreativo.com/blog/)
 
