@@ -1,17 +1,31 @@
 <div id="header" align="center">
-  <h1><br/>Carxl Profile</h1>
+  <h1><br/>👋 Hi, I’m Andrés</h1>
+  <h3 align="center">A software developer passionate for startups</h3>
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
 </div>
-<br/>
+<br/><br/>
+
 
 ## Bio
 
-- 👋 Hi, I’m @carxl
-- 👀 I’m interested in software developement and Machine Learning. I'm Tech Director in my own software factory where develop on Bizagi, NodeJs, Python and Javascript. I'm CTO in Cubiko.co, you can check what we do there, is a web platform to automate digital marketing. 
-- 🌱 I’m currently learning Machine Learning and I am certifying in Bizagi BPM.
-- 💞️ I’m looking to collaborate on Bizagi Projects, Machine Learning projects, Python projects or Javascript (NodeJS, React, VueJs) projects.
+- 👀 I'm Tech Director at my own software factory where develop on Bizagi, NodeJs, Python, C# and Javascript and I'm CTO at [Cubiko](https://www.cubiko.co/), you can check what we do there, is a web platform to automate digital marketing. 
+
+- 🌱 I’m currently learning **Machine Learning on Python and R**
+
+- 👯 I’m looking to collaborate on **Python projects and Javascript (NodeJs, React, VueJs) projects**
+
+- 🤝 I’m looking for help with **my machine learning skills**
+
+- I’m interested in software developement and Machine Learning.
+
+- 📝 I regularly write articles on [https://monstercreativo.com/blog/](https://monstercreativo.com/blog/)
+
+- 💬 Ask me about **Python, Javascript, Php, React, VueJs,**
+
+- 📫 How to reach me **karxll@gmail.com**
 <br/><br/>
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,6 +35,7 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 <br/><br/>
 
+
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,6 +43,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <br/><br/>
+
 
 ### Tech Stack
 
