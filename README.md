@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://monstercreativo.com/blog/](https://monstercreativo.com/blog/)
 
-- 💬 Ask me about **Python, Javascript, Php, React, VueJs,**
+- 💬 Ask me about **Python, Javascript, Php, React, VueJs, Startups, Product Development.**
 <br/><br/>
 
 
