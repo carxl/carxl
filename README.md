@@ -24,6 +24,8 @@
 - 💬 Ask me about **Python, Javascript, Php, React, VueJs, Startups, Product Development.**
 <br/><br/>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carxl&theme=dracula&hide_border=true)
+<br/><br/>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
