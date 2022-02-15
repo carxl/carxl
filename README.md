@@ -9,7 +9,7 @@
 
 ## Bio
 
-- 👀 I'm Tech Director at my own software factory where develop on Bizagi, NodeJs, Python, C# and Javascript and I'm CTO at [Cubiko](https://www.cubiko.co/), you can check what we do there, is a web platform to automate digital marketing. 
+- 👀 I'm Tech Director at my own software factory where develop on Bizagi, NodeJs, Python and Javascript and I'm CTO at [Cubiko](https://www.cubiko.co/), you can check what we do there, is a web platform to automate digital marketing. 
 
 - 🌱 I’m currently learning **Machine Learning on Python and R**
 
