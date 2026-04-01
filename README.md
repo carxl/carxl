@@ -9,19 +9,19 @@
 
 ## Bio
 
-- 👀 I'm Tech Director at my own software factory where develop on Bizagi, NodeJs, Python and Javascript and I'm CTO at [Cubiko](https://www.cubiko.co/), you can check what we do there, is a web platform to automate digital marketing. 
+- 👀 I'm a CTO at [GivU](https://givu.mx/), you can check what we do there, is an app to sell, purchase and trade-in pre-owned cellphones. 
 
-- 🌱 I’m currently learning **Machine Learning on Python and R**
+- 🌱 I’m currently learning **AI Skills**
 
 - 👯 I’m looking to collaborate on **Python projects and Javascript (NodeJs, React, VueJs) projects**
 
-- 🤝 I’m looking for help with **my machine learning skills**
+- 🤝 I'm looking for advice on how to become a better CTO. In your opinion, **what skills are essential for a CTO**?
 
-- 🔭 I’m interested in software developement and Machine Learning.
+- 🔭 I’m interested in software developement and CTO skills.
 
-- 📝 I regularly write articles on [https://monstercreativo.com/blog/](https://monstercreativo.com/blog/)
+- 📝 You can check my Youtube channel [@Carxl](https://www.youtube.com/@carxl)
 
-- 💬 Ask me about **Python, Javascript, Php, React, VueJs, Startups, Product Development.**
+- 💬 Ask me about **Software Development, Startups, Product Development, Tech, Managament, KPIs, Project Management.**
 <br/><br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carxl&theme=dracula&hide_border=true)
